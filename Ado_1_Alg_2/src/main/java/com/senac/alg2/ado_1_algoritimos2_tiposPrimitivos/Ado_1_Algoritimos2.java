@@ -3,11 +3,12 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Project/Maven2/JavaApp/src/main/java/${packagePath}/${mainClassName}.java to edit this template
  */
 
-package com.senac.alg2.ado_1_algoritimos2;
+package com.senac.alg2.ado_1_algoritimos2_tiposPrimitivos;
 
 import java.util.Scanner;
 
 /**
+ * chave github >>>> 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 <<<<<<
  *Realize e exiba a soma de dois números inteiros (Obs: pode utilizar dois números fixos)
  * @author gda_a
  */
